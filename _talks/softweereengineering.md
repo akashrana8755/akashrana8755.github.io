@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Software Engineering"
+title: ""
 permalink: /software-engineering/
 author_profile: true
 ---
