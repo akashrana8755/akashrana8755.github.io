@@ -1,6 +1,12 @@
 ---
-title: "My Profile..."
+title: "My Resume..."
 collection: portfolio
+---
+
+- [Resume – Machine Learning Focused](/files/Akash_Rana_Resume_ML_Latest.pdf)
+- [Resume – Software Engineering Focused](/files/Akash_Rana_Resume_SoftwereEngineer_Latest.pdf)
+- [Resume – General Purpose](/files/Akash_Rana_Resume_General_latest.pdf)
+
 ---
 
 ## 🎓 Education
@@ -103,8 +109,3 @@ Proposes architectures that reduce wiring complexity and cost, enable smart/manu
 
 ---
 
-## 📄 Resume Downloads
-
-- [Resume – Machine Learning Focused](/files/Akash_Rana_Resume_ML_Latest.pdf)
-- [Resume – Software Engineering Focused](/files/Akash_Rana_Resume_SoftwereEngineer_Latest.pdf)
-- [Resume – General Purpose](/files/Akash_Rana_Resume_General_latest.pdf)
