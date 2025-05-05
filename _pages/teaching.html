@@ -1,12 +1,18 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Home Automation"
 permalink: /teaching/
 author_profile: true
 ---
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+{% assign sorted_teaching = site.teaching | sort: 'title' %}
+{% for item in sorted_teaching %}
+  <article class="teaching-entry">
+    <h2>{{ item.title }}</h2>
+    <div class="teaching-content">
+      {{ item.content }}
+    </div>
+    <hr/>
 {% endfor %}
